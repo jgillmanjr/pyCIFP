@@ -1,0 +1,2 @@
+fixedwidth == 1.3
+requests
